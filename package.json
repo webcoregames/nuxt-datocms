@@ -5,12 +5,12 @@
   "description": "DatoCMS Nuxt module",
   "author": "Jamie Warburton @Jamiewarb",
   "license": "MIT",
-  "homepage": "https://github.com/hex-digital/nuxt-datocms",
+  "homepage": "https://github.com/webcoregames/nuxt-datocms",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hex-digital/nuxt-datocms"
+    "url": "https://github.com/webcoregames/nuxt-datocms"
   },
-  "bugs": "https://github.com/hex-digital/nuxt-datocms/issues",
+  "bugs": "https://github.com/webcoregames/nuxt-datocms/issues",
   "keywords": [
     "nuxt",
     "datocms",
